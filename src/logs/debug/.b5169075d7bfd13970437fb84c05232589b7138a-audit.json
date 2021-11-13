@@ -1,0 +1,19 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 30
+    },
+    "auditLog": "/Users/temitope/Documents/tmp/play work/seren/src/logs/debug/.b5169075d7bfd13970437fb84c05232589b7138a-audit.json",
+    "files": [
+        {
+            "date": 1636742296065,
+            "name": "/Users/temitope/Documents/tmp/play work/seren/src/logs/debug/2021-11-12.log",
+            "hash": "ea44a480bec201bbfd67597226c89408"
+        },
+        {
+            "date": 1636787782164,
+            "name": "/Users/temitope/Documents/tmp/play work/seren/src/logs/debug/2021-11-13.log",
+            "hash": "4b251a97bb4debfc85cc7a82d8039733"
+        }
+    ]
+}
